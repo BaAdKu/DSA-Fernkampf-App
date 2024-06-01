@@ -1,0 +1,16 @@
+target
+    target_no_movement, "no movement at all", "gar keine Bewegung", +2
+    target_light_movement, "4 strides or less in last action", "4 Schritt oder weniger in der letzten Handlung", 0
+    target_quick_movement, "5 strides or more in last action", "5 Schritt oder mehr in der letzten Handlung", -2
+    target_zigzag_movement, "zig zags, or active dodging", "Haken schlagen oder Ausweichen vorbereiten", -4
+
+archer
+    archer_no_movement, "no movement at all", "gar keine Bewegung", 0
+    archer_light_movement, "4 strides or less in last action", "4 Schritt oder weniger in der letzten Handlung", -2
+    archer_quick_movement, "5 strides or more in last aciton", "5 Schritt oder mehr in der letzten Handlung", -4
+
+mounted
+    mount_no_movement, "the mount didn't move", "Tier steht", 0
+    mount_walk, "the mount's gait is at a walk", "Tier ist im Schritt", -4
+    mount_trot, "the mount's gait is at a trot", "Tier ist im Trab", -99
+    mount_gallop, "the mount's gait is at a gallop", "Tier ist im Galopp", -8

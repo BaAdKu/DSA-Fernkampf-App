@@ -1,0 +1,17 @@
+Darkness
+    Darkness1, "dawn, dusk", "Morgen- oder Abenddaemmerung", -2
+    Darkness2, "moonlight", "Mondlicht", -4
+    Darkness3, "star lit night", "Sternenlicht", -6
+    Darkness4, "absolute darkness", "absolute Finsternis", -99
+
+Weather
+    Weather1, "slight rain, morning fog", "leichter Regen, Morgendunst", -2
+    Weather2, "slight fog, rain, light snowfall ", "leichter Nebel, Regen, leichter Schneefall", -4
+    Weather3, "fog, heavy rain", "Nebel, Starkregen", -6
+    Weather4, "hurricane, snow storm", "Orkan, Schnee Sturm", -99
+
+Surrounding
+    Surrounding1, "light leafcover, some tall grass", "leichtes Blattwerk, ein bisschen hohes Gras", -2
+    Surrounding2, "few bushes", "wenige Buesche", -4
+    Surrounding3, "tall grass", "hohes Gras", -6
+    Surrounding4, "thicket, dense wood or bushes", "Dickicht, dichter Wald oder Buesche", -99
