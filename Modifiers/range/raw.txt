@@ -1,0 +1,7 @@
+range
+    melee, "an enemy, or the target, is in melee range with you", "Ein Feind, oder das Ziel, ist in Nahkampf-Distanz zu dir", "impossible"
+    close, "the first range interval", "die erste Reichweite der Fernkampfwaffe", +2, +1
+    medium, "the second range interval", "die zweite Reichweite der Fernkampfwaffe", 0, 0
+    far, "the third range interval", "die dritte Reichweite der Fernkampfwaffe", -2, -1
+    very_far, "only with the combat style ablity extreme shot", "nur mit der Kampfstilsonderfertigkeit Extremschuss", -4, -2
+    
