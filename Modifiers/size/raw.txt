@@ -4,4 +4,3 @@ small, "small: a sheep a goat a cat", "klein: ein Schaf eine Ziege eine Katze", 
 medium, "medium: human dwarf elf donkey", "mittel: Mensch Zwerg Elf Esel", 0, 0, "regular"
 large, "large: an ogre a troll a cow", "groß: ein Oger ein Troll ein Rind", +4, 0, "regular"
 huge, "huge: a dragon a giant an elephant", "riesig: ein Drache ein Riese ein Elefant", +8, 0, "regular"
-    

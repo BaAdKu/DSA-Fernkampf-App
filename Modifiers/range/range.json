@@ -1,0 +1,52 @@
+{
+    "range": {
+        "range": {
+            "name": "range",
+            "eng_desc": " \"the distance between archer and target\"",
+            "de_desc": " \"die entfernung zwischen Schuetze und Ziel\"",
+            "hit_mod": " 0",
+            "dmg_mod": "0",
+            "hit_type": "\"regular\""
+        },
+        "melee": {
+            "name": "melee",
+            "eng_desc": " \"an enemy or the target is in melee range with you\"",
+            "de_desc": " \"Ein Feind oder das Ziel ist in Nahkampf-Distanz zu dir\"",
+            "hit_mod": " 0",
+            "dmg_mod": " 0",
+            "hit_type": " \"impossible\""
+        },
+        "close": {
+            "name": "close",
+            "eng_desc": " \"the first range interval\"",
+            "de_desc": " \"die erste Reichweite der Fernkampfwaffe\"",
+            "hit_mod": " +2",
+            "dmg_mod": " +1",
+            "hit_type": " \"regular\""
+        },
+        "medium": {
+            "name": "medium",
+            "eng_desc": " \"the second range interval\"",
+            "de_desc": " \"die zweite Reichweite der Fernkampfwaffe\"",
+            "hit_mod": " 0",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "far": {
+            "name": "far",
+            "eng_desc": " \"the third range interval\"",
+            "de_desc": " \"die dritte Reichweite der Fernkampfwaffe\"",
+            "hit_mod": " -2",
+            "dmg_mod": " -1",
+            "hit_type": " \"regular\""
+        },
+        "very_far": {
+            "name": "very_far",
+            "eng_desc": " \"only with the combat style ablity extreme shot\"",
+            "de_desc": " \"nur mit der Kampfstilsonderfertigkeit Extremschuss\"",
+            "hit_mod": " -4",
+            "dmg_mod": " -2",
+            "hit_type": " \"regular\""
+        }
+    }
+}

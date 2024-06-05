@@ -1,0 +1,152 @@
+{
+    "darkness": {
+        "darkness": {
+            "name": "darkness",
+            "eng_desc": " \"the current light conditions\"",
+            "de_desc": " \"die momentanen lichtverhaeltnisse\"",
+            "hit_mod": " 0",
+            "dmg_mod": "0",
+            "hit_type": "\"regular\""
+        },
+        "Darkness0": {
+            "name": "Darkness0",
+            "eng_desc": " \"morning noon or afternoon lighting\"",
+            "de_desc": " \"Vor- oder Nachmittagslicht Mittag\"",
+            "hit_mod": " 0",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Darkness1": {
+            "name": "Darkness1",
+            "eng_desc": " \"dawn",
+            "de_desc": " dusk\"",
+            "hit_mod": " \"Morgen- oder Abenddaemmerung\"",
+            "dmg_mod": " -2",
+            "hit_type": " 0"
+        },
+        "Darkness2": {
+            "name": "Darkness2",
+            "eng_desc": " \"moonlight\"",
+            "de_desc": " \"Mondlicht\"",
+            "hit_mod": " -4",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Darkness3": {
+            "name": "Darkness3",
+            "eng_desc": " \"star lit night\"",
+            "de_desc": " \"Sternenlicht\"",
+            "hit_mod": " -6",
+            "dmg_mod": "0 ",
+            "hit_type": " \"regular\""
+        },
+        "Darkness4": {
+            "name": "Darkness4",
+            "eng_desc": " \"absolute darkness\"",
+            "de_desc": " \"absolute Finsternis\"",
+            "hit_mod": " -99",
+            "dmg_mod": " 0",
+            "hit_type": " \"critical\""
+        }
+    },
+    "weather": {
+        "weather": {
+            "name": "weather",
+            "eng_desc": " \"the current weather conditions\"",
+            "de_desc": " \"die momentanen wetterverhaeltnisse\"",
+            "hit_mod": " 0",
+            "dmg_mod": "0",
+            "hit_type": "\"regular\""
+        },
+        "Weather0": {
+            "name": "Weather0",
+            "eng_desc": " \"bright sunlight perfect conditions\"",
+            "de_desc": " \"heller Sonnenschein ideales Wetter\"",
+            "hit_mod": " 0",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Weather1": {
+            "name": "Weather1",
+            "eng_desc": " \"slight rain morning fog\"",
+            "de_desc": " \"leichter Regen Morgendunst\"",
+            "hit_mod": " -2",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Weather2": {
+            "name": "Weather2",
+            "eng_desc": " \"slight fog rain light snowfall \"",
+            "de_desc": " \"leichter Nebel Regen leichter Schneefall\"",
+            "hit_mod": " -4",
+            "dmg_mod": "0 ",
+            "hit_type": " \"regular\""
+        },
+        "Weather3": {
+            "name": "Weather3",
+            "eng_desc": " \"fog heavy rain\"",
+            "de_desc": " \"Nebel Starkregen\"",
+            "hit_mod": " -6",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Weather4": {
+            "name": "Weather4",
+            "eng_desc": " \"hurricane snow storm\"",
+            "de_desc": " \"Orkan Schnee Sturm\"",
+            "hit_mod": " -99",
+            "dmg_mod": " 0",
+            "hit_type": " \"critical\""
+        }
+    },
+    "surrounding": {
+        "surrounding": {
+            "name": "surrounding",
+            "eng_desc": " \"impairment of sight due to surroundings\"",
+            "de_desc": " \"beeintraechtigung der sicht durch umwelt\"",
+            "hit_mod": " 0",
+            "dmg_mod": "0",
+            "hit_type": "\"regular\""
+        },
+        "Surrounding0": {
+            "name": "Surrounding0",
+            "eng_desc": " \"Meadows paved plazas nowhere to hide\"",
+            "de_desc": " \"Wiese ein Stadtplatz - keine Verstecke m\u00c3\u00b6glich\"",
+            "hit_mod": " 0",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Surrounding1": {
+            "name": "Surrounding1",
+            "eng_desc": " \"light leafcover some tall grass\"",
+            "de_desc": " \"leichtes Blattwerk ein bisschen hohes Gras\"",
+            "hit_mod": " -2",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Surrounding2": {
+            "name": "Surrounding2",
+            "eng_desc": " \"few bushes\"",
+            "de_desc": " \"wenige Buesche\"",
+            "hit_mod": " -4",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Surrounding3": {
+            "name": "Surrounding3",
+            "eng_desc": " \"tall grass\"",
+            "de_desc": " \"hohes Gras\"",
+            "hit_mod": " -6",
+            "dmg_mod": " 0",
+            "hit_type": " \"regular\""
+        },
+        "Surrounding4": {
+            "name": "Surrounding4",
+            "eng_desc": " \"thicket dense wood or bushes\"",
+            "de_desc": " \"Dickicht dichter Wald oder Buesche\"",
+            "hit_mod": " -99",
+            "dmg_mod": " 0",
+            "hit_type": " \"critical\""
+        }
+    }
+}
