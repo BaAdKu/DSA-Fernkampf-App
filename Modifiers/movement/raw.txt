@@ -1,16 +1,14 @@
-target
-    target_no_movement, "no movement at all", "gar keine Bewegung", +2, 0, "regular"
-    target_light_movement, "4 strides or less in last action", "4 Schritt oder weniger in der letzten Handlung", 0, 0, "regular"
-    target_quick_movement, "5 strides or more in last action", "5 Schritt oder mehr in der letzten Handlung", -2, 0, "regular"
-    target_zigzag_movement, "zig zags, or active dodging", "Haken schlagen oder Ausweichen vorbereiten", -4, 0, "regular"
-
-archer
-    archer_no_movement, "no movement at all", "gar keine Bewegung", 0, 0, "regular"
-    archer_light_movement, "4 strides or less in last action", "4 Schritt oder weniger in der letzten Handlung", -2, 0, "regular"
-    archer_quick_movement, "5 strides or more in last aciton", "5 Schritt oder mehr in der letzten Handlung", -4, 0, "regular"
-
-mounted
-    mount_no_movement, "the mount didn't move", "Tier steht", 0, 0, "regular"
-    mount_walk, "the mount's gait is at a walk", "Tier ist im Schritt", -4, 0, "regular"
-    mount_trot, "the mount's gait is at a trot", "Tier ist im Trab", -99, 0, "critical"
-    mount_gallop, "the mount's gait is at a gallop", "Tier ist im Galopp", -8, 0, "regular"
+target, "the movement of the target", "die bewegung des ziels",0,0,"regular"
+target_no_movement, "no movement at all", "gar keine Bewegung", +2, 0, "regular"
+target_light_movement, "4 strides or less in last action", "4 Schritt oder weniger in der letzten Handlung", 0, 0, "regular"
+target_quick_movement, "5 strides or more in last action", "5 Schritt oder mehr in der letzten Handlung", -2, 0, "regular"
+target_zigzag_movement, "zig zags or active dodging", "Haken schlagen oder Ausweichen vorbereiten", -4, 0, "regular"
+archer, "the archers own movement", "die bewegung des schützen", 0,0,"regular"
+archer_no_movement, "no movement at all", "gar keine Bewegung", 0, 0, "regular"
+archer_light_movement, "4 strides or less in last action", "4 Schritt oder weniger in der letzten Handlung", -2, 0, "regular"
+archer_quick_movement, "5 strides or more in last aciton", "5 Schritt oder mehr in der letzten Handlung", -4, 0, "regular"
+mounted, "the archer's mount's movement", "bewegungen des reittiers", 0,0,"regular"
+mount_no_movement, "the mount didn't move", "Tier steht", 0, 0, "regular"
+mount_walk, "the mount's gait is at a walk", "Tier ist im Schritt", -4, 0, "regular"
+mount_trot, "the mount's gait is at a trot", "Tier ist im Trab", -99, 0, "critical"
+mount_gallop, "the mount's gait is at a gallop", "Tier ist im Galopp", -8, 0, "regular"
