@@ -1,7 +1,7 @@
 size
-    tiny, "tiny: a rat, a toad, a small bird", "winzig: eine Ratte, eine Kroete, ein kleiner Vogel", -8
-    small, "small: a sheep, a goat, a cat", "klein: ein Schaf, eine Ziege, eine Katze", -4
-    medium, "medium: human, dwarf, elf, donkey", "mittel: Mensch, Zwerg, Elf, Esel", 0
-    large, "large: an ogre, a troll, a cow", "groß: ein Oger, ein Troll, ein Rind", +4
-    huge, "huge: a dragon, a giant, an elephant", "riesig: ein Drache, ein Riese, ein Elefant", +8
+    tiny, "tiny: a rat, a toad, a small bird", "winzig: eine Ratte, eine Kroete, ein kleiner Vogel", -8, 0, "regular"
+    small, "small: a sheep, a goat, a cat", "klein: ein Schaf, eine Ziege, eine Katze", -4, 0, "regular"
+    medium, "medium: human, dwarf, elf, donkey", "mittel: Mensch, Zwerg, Elf, Esel", 0, 0, "regular"
+    large, "large: an ogre, a troll, a cow", "groß: ein Oger, ein Troll, ein Rind", +4, 0, "regular"
+    huge, "huge: a dragon, a giant, an elephant", "riesig: ein Drache, ein Riese, ein Elefant", +8, 0, "regular"
     

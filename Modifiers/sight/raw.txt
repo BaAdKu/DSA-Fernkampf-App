@@ -1,17 +1,20 @@
 Darkness
-    Darkness1, "dawn, dusk", "Morgen- oder Abenddaemmerung", -2
-    Darkness2, "moonlight", "Mondlicht", -4
-    Darkness3, "star lit night", "Sternenlicht", -6
-    Darkness4, "absolute darkness", "absolute Finsternis", -99
+    Darkness0, "morning, noon or afternoon lighting", "Vor- oder Nachmittagslicht, Mittag", 0, 0, "regular"
+    Darkness1, "dawn, dusk", "Morgen- oder Abenddaemmerung", -2, 0, "regular"
+    Darkness2, "moonlight", "Mondlicht", -4, 0, "regular"
+    Darkness3, "star lit night", "Sternenlicht", -6, , "regular"
+    Darkness4, "absolute darkness", "absolute Finsternis", -99, 0, "critical"
 
 Weather
-    Weather1, "slight rain, morning fog", "leichter Regen, Morgendunst", -2
-    Weather2, "slight fog, rain, light snowfall ", "leichter Nebel, Regen, leichter Schneefall", -4
-    Weather3, "fog, heavy rain", "Nebel, Starkregen", -6
-    Weather4, "hurricane, snow storm", "Orkan, Schnee Sturm", -99
+    Weather0, "bright sunlight, perfect conditions", "heller Sonnenschein, ideales Wetter", 0, 0, "regular"
+    Weather1, "slight rain, morning fog", "leichter Regen, Morgendunst", -2, 0, "regular"
+    Weather2, "slight fog, rain, light snowfall ", "leichter Nebel, Regen, leichter Schneefall", -4, , "regular"
+    Weather3, "fog, heavy rain", "Nebel, Starkregen", -6, 0, "regular"
+    Weather4, "hurricane, snow storm", "Orkan, Schnee Sturm", -99, 0, "critical"
 
 Surrounding
-    Surrounding1, "light leafcover, some tall grass", "leichtes Blattwerk, ein bisschen hohes Gras", -2
-    Surrounding2, "few bushes", "wenige Buesche", -4
-    Surrounding3, "tall grass", "hohes Gras", -6
-    Surrounding4, "thicket, dense wood or bushes", "Dickicht, dichter Wald oder Buesche", -99
+    Surrounding0, "Meadows, paved plazas, nowhere to hide", "Wiese, ein Stadtplatz - keine Verstecke möglich", 0, 0, "regular"
+    Surrounding1, "light leafcover, some tall grass", "leichtes Blattwerk, ein bisschen hohes Gras", -2, 0, "regular"
+    Surrounding2, "few bushes", "wenige Buesche", -4, 0, "regular"
+    Surrounding3, "tall grass", "hohes Gras", -6, 0, "regular"
+    Surrounding4, "thicket, dense wood or bushes", "Dickicht, dichter Wald oder Buesche", -99, 0, "critical"
