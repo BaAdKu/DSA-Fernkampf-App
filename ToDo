@@ -1,8 +1,9 @@
 - corrections to some of the raw data in modifiers          done
-- raw data to json
+- raw data to json                                          done
 - add stati and stuff
 - start gui work
 - add special abilities
 - add combat style abilities
 - add weapon (-defaults)
-- add amunition
+- add amunition raw                                         done
+- add ammunition json
