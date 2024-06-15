@@ -1,0 +1,90 @@
+{
+    "name": {
+        "name": "name",
+        "eng_desc": "desc eng",
+        "de_desc": "desc germ",
+        "hit_mod": "to-hit mod",
+        "dmg_mod": "dmg mod",
+        "hit_type": "range mod"
+    },
+    "\"incendiary\"": {
+        "name": "\"incendiary\"",
+        "eng_desc": "\"Incendiary bolts or arrows\"",
+        "de_desc": "\"Brandpfeile und -bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "*0.5",
+        "hit_type": "*1"
+    },
+    "\"hunting\"": {
+        "name": "\"hunting\"",
+        "eng_desc": "\"Hunting bolts or arrows\"",
+        "de_desc": "\"Jagdpfeile und -bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "0",
+        "hit_type": "*1"
+    },
+    "\"chain\"": {
+        "name": "\"chain\"",
+        "eng_desc": "\"chain breaking bolts or arrows\"",
+        "de_desc": "\"Kettenbrecher-Pfeile und -bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "0",
+        "hit_type": "*1"
+    },
+    "\"war\"": {
+        "name": "\"war\"",
+        "eng_desc": "\"war arrow and bolts\"",
+        "de_desc": "\"kriegspfeile und -bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "+1",
+        "hit_type": "*0.9"
+    },
+    "\"armor\"": {
+        "name": "\"armor\"",
+        "eng_desc": "\"armor piercing arrows and bolts\"",
+        "de_desc": "\"panzerbrecher-pfeile und -bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "0",
+        "hit_type": "*1"
+    },
+    "\"horse\"": {
+        "name": "\"horse\"",
+        "eng_desc": "\"horse arrows and bolts\"",
+        "de_desc": "\"pferde-pfeile und -bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "+6",
+        "hit_type": "*1"
+    },
+    "\"tendon\"": {
+        "name": "\"tendon\"",
+        "eng_desc": "\"tendon cutter arrows and bolts\"",
+        "de_desc": "\"sehnenschneider-pfeile und bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "+1d6",
+        "hit_type": "*0.5"
+    },
+    "\"singing\"": {
+        "name": "\"singing\"",
+        "eng_desc": "\"singing arrows and bolts\"",
+        "de_desc": "\"singende pfeile und bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "-2",
+        "hit_type": "*1"
+    },
+    "\"blunt\"": {
+        "name": "\"blunt\"",
+        "eng_desc": "\"blunt arrows and bolts\"",
+        "de_desc": "\"stumpfe pfeile und bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "1d3",
+        "hit_type": "*1"
+    },
+    "\"barbed\"": {
+        "name": "\"barbed\"",
+        "eng_desc": "\"barbed arrows and bolts\"",
+        "de_desc": "\"widerhaken-pfeile und bolzen\"",
+        "hit_mod": "0",
+        "dmg_mod": "0",
+        "hit_type": "*1"
+    }
+}

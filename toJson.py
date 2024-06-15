@@ -33,6 +33,6 @@ for line in file:
     l+=1
  
 # creating json file        
-out_file = open("size.json", "w")
+out_file = open("ammunition.json", "w")
 json.dump(dict1, out_file, indent = 4)
 out_file.close()
