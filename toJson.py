@@ -16,7 +16,7 @@ l=0
 for line in file:
         
     # reading line by line from the text file
-    description = list( line.strip().split(',', 6))
+    description = list( line.strip().split(';', 6))
     
     # for output see below
     print(description)       
