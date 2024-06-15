@@ -1,52 +1,52 @@
 {
     "size": {
-        "size": {
+        "description": {
             "name": "size",
-            "eng_desc": " \"the size of the target\"",
-            "de_desc": " \"die groesse des ziels\"",
+            "eng_desc": " the size of the target",
+            "de_desc": " die groesse des ziels",
             "hit_mod": " 0",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "tiny": {
             "name": "tiny",
-            "eng_desc": " \"tiny: a rat a toad a small bird\"",
-            "de_desc": " \"winzig: eine Ratte eine Kroete ein kleiner Vogel\"",
+            "eng_desc": " tiny: a rat a toad a small bird",
+            "de_desc": " winzig: eine Ratte eine Kroete ein kleiner Vogel",
             "hit_mod": " -8",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "small": {
             "name": "small",
-            "eng_desc": " \"small: a sheep a goat a cat\"",
-            "de_desc": " \"klein: ein Schaf eine Ziege eine Katze\"",
+            "eng_desc": " small: a sheep a goat a cat",
+            "de_desc": " klein: ein Schaf eine Ziege eine Katze",
             "hit_mod": " -4",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "medium": {
             "name": "medium",
-            "eng_desc": " \"medium: human dwarf elf donkey\"",
-            "de_desc": " \"mittel: Mensch Zwerg Elf Esel\"",
+            "eng_desc": " medium: human dwarf elf donkey",
+            "de_desc": " mittel: Mensch Zwerg Elf Esel",
             "hit_mod": " 0",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "large": {
             "name": "large",
-            "eng_desc": " \"large: an ogre a troll a cow\"",
-            "de_desc": " \"gro\u00c3\u0178: ein Oger ein Troll ein Rind\"",
+            "eng_desc": " large: an ogre a troll a cow",
+            "de_desc": " gro\u00c3\u0178: ein Oger ein Troll ein Rind",
             "hit_mod": " +4",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "huge": {
             "name": "huge",
-            "eng_desc": " \"huge: a dragon a giant an elephant\"",
-            "de_desc": " \"riesig: ein Drache ein Riese ein Elefant\"",
+            "eng_desc": " huge: a dragon a giant an elephant",
+            "de_desc": " riesig: ein Drache ein Riese ein Elefant",
             "hit_mod": " +8",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         }
     }
 }

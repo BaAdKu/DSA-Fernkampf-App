@@ -1,120 +1,120 @@
 {
     "target_movement": {
-        "target": {
+        "description": {
             "name": "target",
-            "eng_desc": " \"the movement of the target\"",
-            "de_desc": " \"die bewegung des ziels\"",
+            "eng_desc": " the movement of the target",
+            "de_desc": " die bewegung des ziels",
             "hit_mod": "0",
             "dmg_mod": "0",
-            "hit_type": "\"regular\""
+            "hit_type": "regular"
         },
         "target_no_movement": {
             "name": "target_no_movement",
-            "eng_desc": " \"no movement at all\"",
-            "de_desc": " \"gar keine Bewegung\"",
+            "eng_desc": " no movement at all",
+            "de_desc": " gar keine Bewegung",
             "hit_mod": " +2",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "target_light_movement": {
             "name": "target_light_movement",
-            "eng_desc": " \"4 strides or less in last action\"",
-            "de_desc": " \"4 Schritt oder weniger in der letzten Handlung\"",
+            "eng_desc": " 4 strides or less in last action",
+            "de_desc": " 4 Schritt oder weniger in der letzten Handlung",
             "hit_mod": " 0",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "target_quick_movement": {
             "name": "target_quick_movement",
-            "eng_desc": " \"5 strides or more in last action\"",
-            "de_desc": " \"5 Schritt oder mehr in der letzten Handlung\"",
+            "eng_desc": " 5 strides or more in last action",
+            "de_desc": " 5 Schritt oder mehr in der letzten Handlung",
             "hit_mod": " -2",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "target_zigzag_movement": {
             "name": "target_zigzag_movement",
-            "eng_desc": " \"zig zags or active dodging\"",
-            "de_desc": " \"Haken schlagen oder Ausweichen vorbereiten\"",
+            "eng_desc": " zig zags or active dodging",
+            "de_desc": " Haken schlagen oder Ausweichen vorbereiten",
             "hit_mod": " -4",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         }
     },
     "archer_movement": {
-        "archer": {
+        "description": {
             "name": "archer",
-            "eng_desc": " \"the archers own movement\"",
-            "de_desc": " \"die bewegung des sch\u00c3\u00bctzen\"",
+            "eng_desc": " the archers own movement",
+            "de_desc": " die bewegung des sch\u00c3\u00bctzen",
             "hit_mod": " 0",
             "dmg_mod": "0",
-            "hit_type": "\"regular\""
+            "hit_type": "regular"
         },
         "archer_no_movement": {
             "name": "archer_no_movement",
-            "eng_desc": " \"no movement at all\"",
-            "de_desc": " \"gar keine Bewegung\"",
+            "eng_desc": " no movement at all",
+            "de_desc": " gar keine Bewegung",
             "hit_mod": " 0",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "archer_light_movement": {
             "name": "archer_light_movement",
-            "eng_desc": " \"4 strides or less in last action\"",
-            "de_desc": " \"4 Schritt oder weniger in der letzten Handlung\"",
+            "eng_desc": " 4 strides or less in last action",
+            "de_desc": " 4 Schritt oder weniger in der letzten Handlung",
             "hit_mod": " -2",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "archer_quick_movement": {
             "name": "archer_quick_movement",
-            "eng_desc": " \"5 strides or more in last aciton\"",
-            "de_desc": " \"5 Schritt oder mehr in der letzten Handlung\"",
+            "eng_desc": " 5 strides or more in last aciton",
+            "de_desc": " 5 Schritt oder mehr in der letzten Handlung",
             "hit_mod": " -4",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         }
     },
     "mount_movement": {
-        "mounted": {
+        "description": {
             "name": "mounted",
-            "eng_desc": " \"the archer's mount's movement\"",
-            "de_desc": " \"bewegungen des reittiers\"",
+            "eng_desc": " the archer's mount's movement",
+            "de_desc": " bewegungen des reittiers",
             "hit_mod": " 0",
             "dmg_mod": "0",
-            "hit_type": "\"regular\""
+            "hit_type": "regular"
         },
         "mount_no_movement": {
             "name": "mount_no_movement",
-            "eng_desc": " \"the mount didn't move\"",
-            "de_desc": " \"Tier steht\"",
+            "eng_desc": " the mount didn't move",
+            "de_desc": " Tier steht",
             "hit_mod": " 0",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "mount_walk": {
             "name": "mount_walk",
-            "eng_desc": " \"the mount's gait is at a walk\"",
-            "de_desc": " \"Tier ist im Schritt\"",
+            "eng_desc": " the mount's gait is at a walk",
+            "de_desc": " Tier ist im Schritt",
             "hit_mod": " -4",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         },
         "mount_trot": {
             "name": "mount_trot",
-            "eng_desc": " \"the mount's gait is at a trot\"",
-            "de_desc": " \"Tier ist im Trab\"",
+            "eng_desc": " the mount's gait is at a trot",
+            "de_desc": " Tier ist im Trab",
             "hit_mod": " -99",
             "dmg_mod": " 0",
-            "hit_type": " \"critical\""
+            "hit_type": " critical"
         },
         "mount_gallop": {
             "name": "mount_gallop",
-            "eng_desc": " \"the mount's gait is at a gallop\"",
-            "de_desc": " \"Tier ist im Galopp\"",
+            "eng_desc": " the mount's gait is at a gallop",
+            "de_desc": " Tier ist im Galopp",
             "hit_mod": " -8",
             "dmg_mod": " 0",
-            "hit_type": " \"regular\""
+            "hit_type": " regular"
         }
     }
 }
