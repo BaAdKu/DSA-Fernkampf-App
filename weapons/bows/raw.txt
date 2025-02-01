@@ -1,0 +1,2 @@
+name;desc_eng;desc_germ;dmg;reload;range;ammo;weight;size;notes_germ;notes_eng;adv;disadv
+"AlbLong";"Albernian Longbow";"Albernischer Langbogen";1d6+8;2;[20;100;160];"arrows";0,75;200;"";"";"Führt der Schütze einen ballistischen Schuss aus, so erhöht sich die Reichweite um 20 Schritt";""

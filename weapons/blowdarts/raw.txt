@@ -1,0 +1,2 @@
+name;desc_eng;desc_germ;dmg;reload;range;ammo;weight;size;notes_germ;notes_eng;adv;disadv
+"blowdart";"blowdart";"blasrohr";"1d2";2;[5;20;40;]"darts";0,5;60;"Ein vergifteter Blasrohrpfeil sorgt bei 1+ SP fuer eine Vergiftung des Opfers";"A poisoned dart poisons the foe at 1+ dmg";"";""
